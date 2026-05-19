@@ -1,4 +1,4 @@
-package Arrays.NgtuHomework;
+package ArraysTasks.NgtuHomework;
 
 import java.util.Arrays;
 import java.util.Random;

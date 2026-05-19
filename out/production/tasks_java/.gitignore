@@ -1,0 +1,13 @@
+# IDE files
+    .idea/
+    *.iml
+    out/
+
+    # Build artifacts
+    target/
+
+    # Log files
+    *.log
+
+    # Temp files
+    *.tmp

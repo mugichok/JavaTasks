@@ -3,7 +3,7 @@
 Верните k-ое пропущенное число в этом массиве
  */
 
-package Arrays;
+package ArraysTasks;
 
 import java.util.*;
 

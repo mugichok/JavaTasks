@@ -1,3 +1,5 @@
+package ArraysTasks;
+
 import java.util.*;
 
 public class BinarySearch {
